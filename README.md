@@ -32,10 +32,14 @@ El equipo 55 está conformado por:
 ## Estructura del repositorio
 ```
 ThreatLLM_v2/
-├── data/                           # Datasets utilizados (LADDER Attack Pattern Dataset, MITRE ATT&CK mapping)
-├── documentation/                  # Documento de planteamiento, plan de entregables, artículo de investigación
-├── notebooks/                      # Notebooks del proyecto (EDA, feature engineering, modelado, comparación)
-│   ├── preassigned_notebooks       # Notebooks preasignados
+├── data/                                   # Datasets utilizados (LADDER Attack Pattern Dataset, MITRE ATT&CK mapping)
+│   ├── sentence_classification      
+│   ├── entity_extraction       
+│   ├── attack-pattern-matching-gt.csv       
+├── documentation/                          # Documento de planteamiento, plan de entregables, artículo de investigación
+│   ├── DatosGenerales.55.md   
+├── notebooks/                              # Notebooks del proyecto (EDA, feature engineering, modelado, comparación)
+│   ├── preassigned_notebooks               # Notebooks preasignados
 └── README.md
 
 ```
