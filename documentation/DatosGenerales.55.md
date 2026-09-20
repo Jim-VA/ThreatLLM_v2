@@ -1,11 +1,19 @@
 # Project Charter
 
-**Tabla de Contenido**
-* [Título del proyecto](https://github.com/Jim-VA/ThreatLLM_v2/blob/main/documentation/DatosGenerales.55.md#t%C3%ADtulo-del-proyecto)
-* [Información General](https://github.com/Jim-VA/ThreatLLM_v2/blob/main/documentation/DatosGenerales.55.md#informaci%C3%B3n-general)
-* [Detalles del proyecto]()
-* [Consideraciones del proyecto]()
-* [Plan de entregables](https://github.com/Jim-VA/ThreatLLM_v2/blob/main/documentation/DatosGenerales.55.md#plan-de-entregables)
+---
+# Índice
+- [Título del proyecto](https://github.com/Jim-VA/ThreatLLM_v2/blob/main/documentation/DatosGenerales.55.md#t%C3%ADtulo-del-proyecto)
+- [Información General](https://github.com/Jim-VA/ThreatLLM_v2/blob/main/documentation/DatosGenerales.55.md#informaci%C3%B3n-general)
+  * [Empresa/ Institución](#empresa--instituci-n)
+  * [Sector industrial](#sector-industrial)
+  * [Lugar de aplicación](#lugar-de-aplicaci-n)
+  * [Patrocinador / Sponsor](#patrocinador---sponsor)
+    + [Datos del sponsor](#datos-del-sponsor)
+  * [Dominio de aplicación]([#dominio-de-aplicaci-n](https://github.com/Jim-VA/ThreatLLM_v2/blob/main/documentation/DatosGenerales.55.md#dominio-de-aplicaci%C3%B3n))
+- [Plan de entregables](https://github.com/Jim-VA/ThreatLLM_v2/blob/main/documentation/DatosGenerales.55.md#plan-de-entregables)
+
+<small><i><a href='http://ecotrust-canada.github.io/markdown-toc/'>Table of contents generated with markdown-toc</a></i></small>
+
 
 ## Título del proyecto
 ThreatLLM: Clasificación de Ciberataques mediante Modelos de Lenguaje
@@ -21,7 +29,7 @@ Sector SCIAN: 541712
 Laboratorio de Ciberseguridad (CISEG), Centro de Investigación en Computación del Instituto Politécnico Nacional, Ciudad de México, México.
 ### Patrocinador/ Sponsor
 Hub de Ciencia de Datos del Tec de Monterrey
-### Datos del sponsor
+#### Datos del sponsor
 Dr. Juan Arturo Nolazco Flores
 * Director del Hub de Ciencia de Datos
 * jnolazco@tec.mx 
