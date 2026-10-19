@@ -1,4 +1,4 @@
 Archivos incluidos:
 * Notebook del respectivo avance
-* Carpeta con archivos empelados para su ejecución
+* Carpeta data.zip con datasets principales
 * 2 archivos CSV necesarios para su ejecución
