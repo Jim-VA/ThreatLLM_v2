@@ -8,4 +8,6 @@ Aquí se encuentran:
 
 **Cómo ejecutar:** subir todos los archivos a `/content` en Colab y quitar el `#` de los `pip install` de las celdas 8 (`flaml[automl]`) y 9 (`sentence-transformers`) la primera vez.
 
-**Contenido:** 3.1 ensambles heterogéneos (Voting, Stacking), 3.2 homogéneos (RF, Extra Trees, Gradient Boosting, Bagging), 3.3 AutoML (FLAML), 4 modelo final: Stacking (LogReg + CNB calibrado) con umbral 0.325.
+**Contenido:** 3.1 ensambles heterogéneos (Voting, Stacking), 3.2 homogéneos (RF, Extra Trees, Gradient Boosting, Bagging), 3.3 AutoML (FLAML), 4 modelo final: Stacking (LogReg + CNB calibrado) con umbral 0.325. 
+
+**Material complementario**: Script adicional al Avance 5, independiente. Entrena con train de LADDER y evalúa el modelo final en las 96 oraciones del reporte Kaspersky. Requiere data.zip, oraciones_kaspersky.csv y anotacion_referencia.csv. Anotación de referencia preparada por el asesor con apoyo de IA. Se reporta en el Av.6 (artículo)
